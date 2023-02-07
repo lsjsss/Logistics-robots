@@ -1,2 +1,4 @@
 # Logistics-robots
-Logistics robots project
+
+Logistics robot (Automation project)
+物流机器人 (自动化项目)
